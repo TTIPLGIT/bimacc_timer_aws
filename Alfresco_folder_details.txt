@@ -1,0 +1,11 @@
+Claim
+   Address-UserProfileAmend
+   Claimant-ClaimNoticeAmend
+   ClaimNotice
+   ClaimPetition
+   Name-UserProfileAmend
+   Respondent-ClaimNoticeAmend
+   User
+
+PHP 7.3
+Alfresco Community v5.2.0
